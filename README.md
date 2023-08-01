@@ -1,5 +1,5 @@
 # simpleCRUD
-the import sql in your local server.
+Import sql file in your local server like Xamp.
 
 first create a database folder, and put this file db_conn.php
 
